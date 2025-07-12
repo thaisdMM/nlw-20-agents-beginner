@@ -72,3 +72,33 @@ A partir disso, o HTML é impactado visualmente.
 - declaração
 - seletor
 - propriedade e valor
+
+# JS
+- Linguagem de programação
+- Browser
+- Input -> Process -> Output
+    - entrada de dados -> processamento -> saída de dados
+- Variáveis
+- Function
+    - Agrupamento e reuso do código
+    - Sequencia Lógica
+    - Saída de dados
+- Gemini(IA): esperar uma resposta
+- Mexer no meu navegador
+- Estrutura de dados
+- Estrutura de decisão
+- Algorítmo: sequência de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
+- Lógica(Pensamento Computacional)
+    - Abstração(abstrair o que pode e não pode ser feito)
+    - Decomposição(passos)
+    - Algorítmo(passo a passo)
+    - Reconhecimento de padrão
+- Tipos de dados:
+    - Number(números)
+    - Strings(textos) -> iniciando e terminando(" ", ' ', ``)
+    - Boolean: true | false
+
+# DOM
+- Document
+- Object
+- Model
